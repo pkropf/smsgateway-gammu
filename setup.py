@@ -32,7 +32,7 @@ classifiers = [
 ]
 
 data_files = [
-    ('/etc', ['etc/smsgateway.yml'])
+    #('/etc', ['etc/smsgateway.yml'])
 ]
 
 scripts = [
